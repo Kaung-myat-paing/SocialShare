@@ -1,3 +1,6 @@
+# reference source
+View more detail here (https://github.com/mbj36/vue-socialmedia-share)
+
 # socialshare
 
 ## Project setup
